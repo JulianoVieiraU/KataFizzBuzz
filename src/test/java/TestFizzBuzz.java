@@ -7,6 +7,6 @@ public class TestFizzBuzz {
 
     @Test
     public void testFizz(){
-        assertEquals("fizz", fizzBuzz.execut(3));
+        assertEquals("Fizz", fizzBuzz.execute(3));
     }
 }
