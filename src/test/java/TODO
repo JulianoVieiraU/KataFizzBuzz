@@ -1,11 +1,12 @@
 TDD
 
 Concluidos:
-1- Criar teste execute
-2-Divisão por 5 (Buzz)
-3-Divisão por 3 (Fizz)
-4-Divisão por 3 e 5 (FizzBuzz)
+1- Criar teste execute - Ok
+2- Divisão por 5 (Buzz) - Ok
+3- Divisão por 3 (Fizz) - Ok
+4- Divisão por 3 e 5 (FizzBuzz) - Ok
+5- Teste se nao for divisivel nem por 3 nem por 5 - Ok
+6- Classe refatorada e testes validando! - Ok
 
 Por fazer:
-
-5- Teste se nao for divisivel nem por 3 nem por 5
+"Ok"
