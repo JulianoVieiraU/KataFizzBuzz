@@ -8,8 +8,20 @@ public class TestFizzBuzz {
     @Test
     public void testFizz(){
         assertEquals("Fizz", fizzBuzz.execute(3));
+    }
+
+    @Test
+    public void testBuzz(){
         assertEquals("Buzz", fizzBuzz.execute(5));
+    }
+
+    @Test
+    public void testFizzBuzz(){
         assertEquals("FizzBuzz", fizzBuzz.execute(15));
+    }
+
+    @Test
+    public void testNotFizzOrBuzz(){
         assertEquals("1", fizzBuzz.execute(1));
     }
 }
